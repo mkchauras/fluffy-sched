@@ -53,3 +53,8 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# Generated files
+vmlinux.h
+simple_scheduler
+*.bpf.o
